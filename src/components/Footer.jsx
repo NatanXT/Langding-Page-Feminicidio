@@ -1,6 +1,14 @@
 import React from 'react';
 
 const Footer = () => {
+  const integrantes = [
+    "Alessandra de Paula Santana",
+    "João Vitor Rezende de Paiva",
+    "Lara Alves de Andrade",
+    "Raphael Fernandes Evangelista",
+    "Gabrielly Medeiros Caiado"
+  ];
+
   return (
     <footer className="footer">
       <div className="container">
@@ -8,7 +16,7 @@ const Footer = () => {
           <div>
             <h3 style={{ marginBottom: '1.5rem' }}>Sobre o Projeto</h3>
             <p style={{ opacity: 0.8, fontSize: '0.9rem' }}>
-              Esta landing page é um projeto acadêmico desenvolvido para a faculdade de Psicologia, 
+              Esta landing page é um projeto acadêmico desenvolvido para o curso de Direito da UNIP - Universidade Paulista, 
               com o objetivo de servir como suporte informativo para apresentações e conscientização sobre o feminicídio.
             </p>
           </div>
@@ -24,14 +32,17 @@ const Footer = () => {
           <div>
             <h3 style={{ marginBottom: '1.5rem' }}>Créditos</h3>
             <p style={{ opacity: 0.8, fontSize: '0.9rem', marginBottom: '0.5rem' }}>
-              <strong>Autora:</strong> [Nome da Aluna/Autora]
+              <strong>Curso:</strong> Direito
             </p>
-            <p style={{ opacity: 0.8, fontSize: '0.9rem' }}>
-              <strong>Orientação:</strong> [Nome do Professor/Orientador]
+            <p style={{ opacity: 0.8, fontSize: '0.9rem', marginBottom: '1rem' }}>
+              <strong>Instituição:</strong> UNIP - Universidade Paulista
             </p>
-            <p style={{ opacity: 0.8, fontSize: '0.9rem', marginTop: '1rem' }}>
-              Psicologia - [Nome da Instituição]
-            </p>
+            <p style={{ opacity: 0.8, fontSize: '0.9rem', fontWeight: 700, marginBottom: '0.5rem' }}>Integrantes:</p>
+            <ul style={{ opacity: 0.8, fontSize: '0.85rem', display: 'grid', gap: '0.3rem' }}>
+              {integrantes.map((nome, index) => (
+                <li key={index}>{nome}</li>
+              ))}
+            </ul>
           </div>
         </div>
         

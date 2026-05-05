@@ -24,7 +24,7 @@ const Definition = () => {
               envolvendo violência doméstica e familiar e/ou menosprezo ou discriminação à condição de mulher.
             </p>
             <p>
-              Na psicologia e na sociologia, o termo descreve a etapa final de um ciclo de violência contínuo, 
+              No âmbito jurídico e social, o termo descreve a etapa final de um ciclo de violência contínuo, 
               frequentemente alimentado por estruturas patriarcais e de posse.
             </p>
           </motion.div>

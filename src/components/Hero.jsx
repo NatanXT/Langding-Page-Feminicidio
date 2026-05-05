@@ -15,7 +15,7 @@ const Hero = () => {
           <h1>Conscientização e Enfrentamento ao Feminicídio</h1>
           <p>
             Uma plataforma informativa dedicada à compreensão, prevenção e combate à violência de gênero. 
-            Projeto acadêmico para a Faculdade de Psicologia.
+            Projeto acadêmico desenvolvido para apresentação no curso de Direito da UNIP - Universidade Paulista.
           </p>
           <div className="hero-btns">
             <a href="#denuncia" className="btn btn-primary">

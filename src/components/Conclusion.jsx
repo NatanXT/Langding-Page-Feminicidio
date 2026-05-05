@@ -21,7 +21,7 @@ const Conclusion = () => {
           <div style={{ maxWidth: '700px', margin: '0 auto', fontSize: '1.2rem', lineHeight: '1.8' }}>
             <p>
               "Que o conhecimento aqui compartilhado sirva como ferramenta de emancipação e proteção. 
-              A psicologia caminha junto com a luta das mulheres por uma vida livre de violência."
+              O Direito caminha junto com a luta das mulheres por uma vida livre de violência."
             </p>
           </div>
           <div style={{ marginTop: '3rem' }}>

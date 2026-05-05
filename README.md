@@ -1,6 +1,17 @@
 # Landing Page Feminicidio - Projeto Academico
 
-Este projeto e uma landing page informativa sobre o feminicidio, desenvolvida como ferramenta de apoio para apresentacoes academicas na faculdade de Psicologia.
+Este projeto e uma landing page informativa sobre o feminicidio, desenvolvida como ferramenta de apoio para apresentacoes academicas no curso de Direito da UNIP - Universidade Paulista.
+
+## Informacoes Academicas
+
+- Instituicao: UNIP - Universidade Paulista
+- Curso: Direito
+- Integrantes:
+  - Alessandra de Paula Santana
+  - Joao Vitor Rezende de Paiva
+  - Lara Alves de Andrade
+  - Raphael Fernandes Evangelista
+  - Gabrielly Medeiros Caiado
 
 ## Tecnologias Utilizadas
 
@@ -44,4 +55,4 @@ Para gerar a versao de producao (para subir na Vercel, por exemplo):
 - Finalidade: Este e um projeto com fins estritamente educacionais e informativos.
 
 ---
-Desenvolvido como parte do curriculo academico de Psicologia.
+Desenvolvido como parte do curriculo academico do curso de Direito - UNIP.
