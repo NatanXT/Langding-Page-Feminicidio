@@ -21,7 +21,7 @@ const History = () => {
     {
       year: "Hoje",
       title: "Debate Social e Acadêmico",
-      desc: "O conceito continua evoluindo na psicologia para entender as dinâmicas de poder e as interseccionalidades de raça e classe."
+      desc: "O conceito continua evoluindo no âmbito jurídico e social para entender as dinâmicas de poder e as interseccionalidades de raça e classe."
     }
   ];
 
