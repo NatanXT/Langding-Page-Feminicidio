@@ -20,7 +20,7 @@ const Reporting = () => {
           >
             <PhoneCall size={48} color="var(--primary)" style={{ margin: '0 auto' }} />
             <h3 style={{ marginTop: '1rem' }}>Central de Atendimento</h3>
-            <div className="report-number">180</div>
+            <div className="report-number" style={{ color: 'var(--accent)' }}>180</div>
             <p style={{ color: 'var(--text-muted)', marginBottom: '1.5rem' }}>
               O <strong>Disque 180</strong> é um serviço de utilidade pública essencial para o enfrentamento à violência contra a mulher.
             </p>

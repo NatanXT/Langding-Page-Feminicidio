@@ -12,9 +12,9 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1>Conscientização e Enfrentamento ao Feminicídio</h1>
+          <h1>Feminicídio: Informação, Denúncia e Proteção</h1>
           <p>
-            Uma plataforma informativa dedicada à compreensão, prevenção e combate à violência de gênero. 
+            Uma plataforma informativa dedicada à compreensão do feminicídio, aos canais de denúncia e à rede de apoio disponível para mulheres em situação de violência. 
             Projeto acadêmico desenvolvido para apresentação no curso de Direito da UNIP - Universidade Paulista.
           </p>
           <div className="hero-btns">
